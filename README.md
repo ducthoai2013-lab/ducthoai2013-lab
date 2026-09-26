@@ -11,7 +11,7 @@ I build software and explore AI solutions.
 | [d100radar.com](https://d100radar.com/) | Auto Youtube Analysis, Niche - Channels - Choosing Video |
 | [Khop_Voice_Hinh](link) | Auto_Video trên VPS |
 | [Kid-safe](link) | Quản lý Học Sinh (Máy Tính, Điện Thoại) |
-| [Auto_chat](link) | Trả lời tự động |
+| [Auto_chat](link) | Trả lời chat tự động |
 | [Tên dự án 6](link) | Mô tả ngắn gọn về dự án thứ hai |
 | [Tên dự án 7](link) | Mô tả ngắn gọn về dự án thứ hai |
 | [Tên dự án 8](link) | Mô tả ngắn gọn về dự án thứ hai |
