@@ -8,7 +8,7 @@ I build software and explore AI solutions.
 
 | Project | Description |
 | :--- | :--- |
-| [d100radar.com](https://d100radar.com/) | Youtube analysis - Channel analysis - Choosing Video |
+| [d100radar.com](https://d100radar.com/) | Youtube Niche analysis - Channel analysis - Choosing Video |
 | [Tên dự án 2](link) | Mô tả ngắn gọn về dự án thứ hai |
 
 ### Side projects
