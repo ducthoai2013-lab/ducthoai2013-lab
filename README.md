@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey, I'm Thoai 👋
 
-<!--
-**ducthoai2013-lab/ducthoai2013-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software and explore AI solutions.
 
-Here are some ideas to get you started:
+[Website](https://d100radar.com/) • [X / Twitter](https://twitter.com) • [LinkedIn](https://linkedin.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Products / Projects
+
+| Project | Description |
+| :--- | :--- |
+| [Tên dự án 1](link) | Mô tả ngắn gọn về sản phẩm hoặc tính năng chính |
+| [Tên dự án 2](link) | Mô tả ngắn gọn về dự án thứ hai |
+
+### Side projects
+
+| Project | Description | Stars |
+| :--- | :--- | :--- |
+| [khop-voi-hinh](https://github.com/ducthoai2013-lab/khop-voi-hinh) | Xử lý và khớp hình ảnh tự động | ![Stars](https://img.shields.io/github/stars/ducthoai2013-lab/khop-voi-hinh?style=social) |
