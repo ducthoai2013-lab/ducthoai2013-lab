@@ -9,7 +9,14 @@ I build software and explore AI solutions.
 | Project | Description |
 | :--- | :--- |
 | [d100radar.com](https://d100radar.com/) | Youtube Niche analysis - Channel analysis - Choosing Video |
-| [Tên dự án 2](link) | Mô tả ngắn gọn về dự án thứ hai |
+| [Khop_Voice_Hinh](link) | Mô tả ngắn gọn về dự án thứ hai |
+| [Kid-safe](link) | Mô tả ngắn gọn về dự án thứ hai |
+| [Auto_chat](link) | Mô tả ngắn gọn về dự án thứ hai |
+| [Tên dự án 6](link) | Mô tả ngắn gọn về dự án thứ hai |
+| [Tên dự án 7](link) | Mô tả ngắn gọn về dự án thứ hai |
+| [Tên dự án 8](link) | Mô tả ngắn gọn về dự án thứ hai |
+| [Tên dự án 9](link) | Mô tả ngắn gọn về dự án thứ hai |
+
 
 ### Side projects
 
