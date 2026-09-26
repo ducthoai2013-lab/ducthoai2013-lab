@@ -13,7 +13,7 @@ I build infrastructure for people who run AI agents.
 | [Kid-safe](link) | Phụ Huynh Quản lý (Máy Tính, Điện Thoại) Học Sinh |
 | [Auto_chat](link) | Trả lời chat tự động |
 | [English Test](link) | Luyện thi Tiếng Anh IELTs - Vào 10 - học 12  |
-| [Auto_veo](https://github.com/ducthoai2013-lab/auto_veo) | Veo văn thế |
+| [Auto_veo](https://github.com/ducthoai2013-lab/auto_veo) | Veo văn thế - Kết nối Glab chạy nhiều luồng |
 | [Tên dự án 8](link) | Mô tả ngắn gọn về dự án thứ hai |
 | [Tên dự án 9](link) | Mô tả ngắn gọn về dự án thứ hai |
 
