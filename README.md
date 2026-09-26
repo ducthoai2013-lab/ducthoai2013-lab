@@ -1,6 +1,6 @@
 # Hey, I'm Thoai 👋
 
-I build software and explore AI solutions.
+I build infrastructure for people who run AI agents.
 
 [Website](https://d100radar.com/) • [X / Twitter](https://twitter.com) • [LinkedIn](https://linkedin.com)
 
