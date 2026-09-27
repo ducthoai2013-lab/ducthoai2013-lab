@@ -8,7 +8,7 @@ I build infrastructure for people who run AI agents.
 
 | Project | Description |
 | :--- | :--- |
-| [d100radar.com](https://github.com/ducthoai2013-lab/thoai-dash) | Auto Youtube Analysis, Niche - Channels - Choosing Video |
+| [d100radar.com] (https://d100radar.com/) | Auto Youtube Analysis, Niche - Channels - Choosing Video |
 | [Khop_Voice_Hinh](link) | Auto_Video trên VPS |
 | [Kid-safe](link) | Phụ Huynh Quản lý (Máy Tính, Điện Thoại) Học Sinh |
 | [Auto_chat](link) | Trả lời chat tự động |
